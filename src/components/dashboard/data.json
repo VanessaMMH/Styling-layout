@@ -1,0 +1,68 @@
+{
+    "initialState":[
+    {
+      "id": "1",
+      "names": "Travel Landing Page",
+      "members": 5,
+      "lastModified": "Mar 8, 2020",
+      "color": "orange"
+    },
+    {
+      "id": "2",
+      "names": "True Photos",
+      "members": 12,
+      "lastModified": "Mar 8, 2020",
+      "color": "green"
+    },
+    {
+      "id": "3",
+      "names": "Dashboard Structure",
+      "members": 5,
+      "lastModified": "Mar 8, 2020",
+      "color": "palevioletred"
+    },
+    {
+      "id": "4",
+      "names": "Character Illustration",
+      "members": 5,
+      "lastModified": "Mar 8, 2020",
+      "color": "orange"
+    }
+  ],
+  
+  
+   "recentlyUsed": [
+    {
+      "id": "1",
+      "title": "App Project",
+      "description": "Created: 20.02.2020"
+    },
+    {
+      "id": "2",
+      "title": "Project: fitbit",
+      "description": "Created: 28.02.2020"
+    },
+    {
+      "id": "3",
+      "title": "Client Documents",
+      "description": "Created: 4.03.2020"
+    }
+  ],
+  "sharedWithMe":[
+    {
+      "id": "1",
+      "title": "Landing Page",
+      "description": "Created: 20.02.2020"
+    },
+    {
+      "id": "2",
+      "title": "Ilustration Pack",
+      "description": "Created: 28.02.2020"
+    },
+    {
+      "id": "3",
+      "title": "CV Design",
+      "description": "Created: 4.03.2020"
+    }
+  ]
+}
