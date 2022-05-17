@@ -1,0 +1,38 @@
+.rectangle-table{
+    box-sizing: border-box;
+    width: 28px;
+    height: 28px;
+    margin: 4px 10px;
+    background: #FF9F00;
+    border-radius: 8px;
+
+}
+.storage__row{
+    display: flex;
+    justify-content: space-between;
+    padding: 0;
+    margin: 0;
+}
+.cell__text{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.cell__text>h4,
+.cell__text>h5{
+    padding: 0;
+    margin: 0;
+}
+.storage__cell{
+    display: flex;
+}
+.storage__gb{
+    padding: 6px 12px;
+    background-color: white;
+    border-radius: 4px;
+    margin: 9px;
+}
+.orange{
+    background-color: #FF9F00;
+    border-color: red;
+}

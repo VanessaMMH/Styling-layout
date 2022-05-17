@@ -1,0 +1,15 @@
+@import "../../assets/styles/Vars.scss";
+
+.itemList{
+    color: $sidebar-font-footer;
+}
+.itemList > p{
+    margin: 5px;
+}
+
+.item{
+    margin:0 5px; 
+}
+
+
+

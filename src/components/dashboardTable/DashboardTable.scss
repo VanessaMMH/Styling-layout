@@ -1,0 +1,26 @@
+@import "../../assets/styles/Vars.scss";
+
+.table-data  table {
+	color:	#858A9D;
+	width: 100%;
+	border-collapse: collapse;
+}
+
+.table-data  table th {
+	font-size: 13px;
+	text-align: left;
+	border-bottom: 1px solid gray;
+}
+.table-data  table tbody td:first-child {
+	border-top-left-radius: 1rem;
+	border-bottom-left-radius: 1rem;
+}
+
+.table-data  table tbody td:last-child {
+	border-top-right-radius: 1rem;
+	border-bottom-right-radius: 1rem;
+}
+
+h4{
+	color: #343951;
+}

@@ -1,0 +1,22 @@
+@import "../../assets/styles/Vars.scss";
+
+.storage__table-data{
+	width: 100%;
+}
+.storage__table-data table {
+	width: 100%;
+}
+
+.storage__table-data table th {
+	padding-bottom: 12px;
+	font-size: 13px;
+	text-align: left;
+	
+ }
+.storage__table-data table tr{
+	padding:  0;
+	border-bottom: 1px solid #E0E7F1;
+	display: flex;
+	justify-content: space-between;
+	color:#343951;
+}

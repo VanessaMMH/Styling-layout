@@ -1,0 +1,69 @@
+@import "../../assets/styles/Vars.scss";
+.dashboardCard {
+  background-color: $white;
+  border-radius: 12px;
+  display: block;
+  height: 140px;
+  min-width: 159px;
+  box-shadow: 0px 4px 16px rgba(58, 58, 58, 0.07);
+  max-width: 210px;
+}
+.dashboardCard__footer{
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+}
+.container {
+  position: relative;
+  padding: 20px;
+  padding: 20px 0 20px 20px;
+  height: 30px;
+  width: 20%;
+}
+
+.rectangle {
+  position: absolute;
+  width: 30px;
+  height: 26px;
+  z-index: 1;
+  background: #ff9f00;
+}
+.rectangle-back {
+  background-color: #ffd999;
+  z-index: 0;
+  bottom: 20px;
+  left: 15px;
+}
+.circle {
+  border-radius: 50px;
+  height: 18px;
+  width: 18px;
+  position: relative;
+  border: 1px solid #bec0c8;
+  top: 26px;
+  left: 10px;
+  background-color: white;
+}
+.one{
+  position: absolute;
+  z-index: 1;
+}
+.two{
+  position: absolute;
+  z-index: 2;
+  left: 20px;
+}
+.svg-elipsis__icon {
+  height: 20px;
+  color: #c4c4c4;
+  position: absolute;
+  right: 0px;
+}
+
+h2{
+  font-weight: normal;
+  margin: 0;
+}
+p{
+  color:$sidebar-font
+}
